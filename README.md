@@ -1,2 +1,3 @@
 # Base-Converter
-Base 2-16 number converter
+
+[Example Output](https://github.com/will-gebbie/Monthly-Loan-Payment-Calculator/blob/master/baseConverter.PNG)
